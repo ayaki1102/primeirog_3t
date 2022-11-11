@@ -1,7 +1,5 @@
 # Terceiro Trimestre
+## Identificação
+Isabelly Durais Borborema N 13
 
-##Identifição
-Ayaki Shimura -nr.03
-
-## Conteúdo
-HTML,CSS e Javascript
+## Conteúdo - HTML - CSS - JavaScript
